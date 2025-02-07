@@ -2,8 +2,8 @@ import numpy as np
 import pandas as pd
 import streamlit as st 
 
-st.title("Welcome Everyone we are learning python")
-st.write("Python Requires practice")
+st.title("Welcome to the world of cricket")
+st.write("here are some stats")
 
 data=pd.DataFrame({
     'player_name':['sachin','virat','dhoni','rohit'],
